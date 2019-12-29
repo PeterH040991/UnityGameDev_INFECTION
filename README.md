@@ -18,3 +18,10 @@ Defaut resolution: 1080x1960
 W,A,S,D or arrow keys for movement
 
 Move the mouse to aim, and left mouse button for shooting
+
+
+Contect
+-----
+For any problems, pls find me using this email:
+
+peterh040991@gmail.com
