@@ -6,7 +6,7 @@ To download the game, pls find the setup.exe in /INFECTION/Setup.exe, install th
 Here is a link to Design Statement (google.doc):
 
 
-ABOUT THE GAME:
+ABOUT THE GAME
 Platform require: Windows
 Defaut resolution: 1080x1960
 
