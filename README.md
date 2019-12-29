@@ -7,8 +7,10 @@ Here is a link to Design Statement (google.doc):
 
 
 ABOUT THE GAME
+-----------
 Platform require: Windows
 Defaut resolution: 1080x1960
+
 
 -Basic Player Control:
 W,A,S,D or arrow keys for movementl
