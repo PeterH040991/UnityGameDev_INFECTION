@@ -5,7 +5,7 @@ To download the game, pls find the setup.exe in /INFECTION/Setup.exe, install th
 
 Here is a link to Design Statement (google.doc):
 
-file:///C:/Users/Peter%20huang/Downloads/Kingofmars%20-%20Compare%20and%20Contrast%20Paragraph.pdf
+
 
 
 ABOUT THE GAME
