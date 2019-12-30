@@ -3,9 +3,6 @@
 The game was made by Unity2019.2.15
 To download the game, pls find the setup.exe in /INFECTION/Setup.exe, install the game using that .exe
 
-Here is a link to Design Statement (google.doc):
-
-
 
 
 ABOUT THE GAME
